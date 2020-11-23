@@ -10,8 +10,12 @@ $ npm i --save-dev
 ```
 
 ## Using `pretty-js`
-
 ```
-$ node_modules/pretty-js/bin/pretty-js.js file_to_read.js > file_to_write.js
+$ node_modules/pretty-js/bin/pretty-js.js <option-flags> file_to_read.js > file_to_write.js
 ```
 Replace `file_to_read.js` and `file_to_write.js` to whatever files you want to read from and write to.
+
+To see a list of option flags available, type:
+```
+$ node_modules/pretty-js/bin/pretty-js.js --help
+```
