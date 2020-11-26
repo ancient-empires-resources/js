@@ -3,6 +3,7 @@
 
 * Original repository: https://github.com/webbestmaster/main
 * Fork: https://github.com/ancient-empires-resources/webbestmaster-backup
+* Backup of AE1 and AE2 source code: https://github.com/ancient-empires-resources/src-Android-backup
 
 This repository containing the .js source code directly extracted from the .apk archives is now for reference only.
 
