@@ -1,3 +1,11 @@
+# DEPRECATED
+**This repository is now deprecated.** One should visit one of the following repositories to get the JavaScript source codes in its original readable format:
+
+* Original repository: https://github.com/webbestmaster/main
+* Fork: https://github.com/ancient-empires-resources/webbestmaster-backup
+
+This repository containing the .js source code directly extracted from the .apk archives is now for reference only.
+
 # JavaScript source code for Ancient Empires 1 and 2 (Android versions)
 
 ## Ancient Empires 1
